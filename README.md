@@ -23,6 +23,8 @@ This Project Has Allowed Me To Get Very In Depth With What Really Makes These So
 
 ----------------------------------------------------------------------------
 
+**Features:**
+
 ![trimmedBall-ezgif com-optimize (2)](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/1ad6647b-351b-4651-84b6-8888cf2c6ae3)
 
 ****Corrupt, but shows depth well:****
