@@ -7,7 +7,7 @@ This Project Has Allowed Me To Get Very In Depth With What Really Makes These So
 
 ----------------------------------------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/bb109c9a-3be8-449b-9562-3cff6f815bee" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/bb109c9a-3be8-449b-9562-3cff6f815bee" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/bb109c9a-3be8-449b-9562-3cff6f815bee" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/bb109c9a-3be8-449b-9562-3cff6f815bee" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/bb109c9a-3be8-449b-9562-3cff6f815bee" alt="Cornstarch <3" width="55" height="49">
 
 
 **The Breakdown:**
