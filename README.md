@@ -1,4 +1,4 @@
-![pet-the-rat](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/4575438e-f737-4041-a82b-00375a842000)# CPP_CellularAutomata_pt2_BusyBlock
+# CPP_CellularAutomata_pt2_BusyBlock
 A C++ OpenGL Renderer Of A Hexagonal Cellular Automata. From AxialRiver I Included A Fade In Effect With Newly Alive Cells To Give More Depth. I Also Fixed The Indexing On Odd Row Indexes So Now Properly Picks Neighbors. Simple Ruleset Gave Very Interesting Live System That Looks To Grow Inside Itself Looking Like A City Block With Many Interconnecting Parts. 
 
 <img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/5ea3d1df-95b7-4844-aa2e-315e4565293f" alt="Cornstarch <3" width="105" height="169">
