@@ -11,7 +11,10 @@ This Project Has Allowed Me To Get Very In Depth With What Really Makes These So
 
 
 **The Breakdown:**
-  This Program Works ON A GLSL Window Calling Upon OpenGL For Rendering. We Have Vertexes Represented With Hexagonal Cells In A Grid Pattern On The Screen. These Hexagonal Cells Are Represented In A 2D Array. Each Cell
+
+  This Program Works ON A GLSL Window Calling Upon OpenGL For Rendering.
+  
+  We Have Vertexes Represented With Hexagonal Cells In A Grid Pattern On The Screen. These Hexagonal Cells Are Represented In A 2D Array. Each Cell
   Holds Its Associated Vertexes In The Shared Buffer Where All Hexagons Lie As Well As A Alive Boolean State. Using This Alive State, We React Based Upon Our Neighbors. Either Becoming Alive, Or Dying Based Upon Our Neighboring Cells States And Predefined "Game Of Life" Rulesets. 
   
   Our Current Ruleset Allows For At Most 6 Connected Neighbors, Allowing Strong Links Between Cells But Also Unique Patterns As Using Death Sine Waves We Destabalize The Stable States Of These HoneyCombed Structures Causing Changes Throughout The Struct Which Is Cool To See.
