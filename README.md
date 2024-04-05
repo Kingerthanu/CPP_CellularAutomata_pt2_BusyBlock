@@ -5,6 +5,16 @@ A C++ OpenGL Renderer Of A Hexagonal Cellular Automata. From AxialRiver I Includ
 
 This Project Has Allowed Me To Get Very In Depth With What Really Makes These Sorts Of Systems Alive And Accepting Of Stable States While Also Making Sure We Don't Have Lock Ups.
 
+----------------------------------------------------------------------------
+
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/bb109c9a-3be8-449b-9562-3cff6f815bee" alt="Cornstarch <3" width="55" height="49">
+
+
+**The Breakdown:**
+
+
+----------------------------------------------------------------------------
+
 ![trimmedBall-ezgif com-optimize (2)](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/1ad6647b-351b-4651-84b6-8888cf2c6ae3)
 
 ****Corrupt, but shows depth well:****
