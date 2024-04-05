@@ -23,6 +23,8 @@ This Project Has Allowed Me To Get Very In Depth With What Really Makes These So
 
 ----------------------------------------------------------------------------
 
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/57586bf2-f3f9-41a3-8445-a9921a687ccf" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/57586bf2-f3f9-41a3-8445-a9921a687ccf" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/57586bf2-f3f9-41a3-8445-a9921a687ccf" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/57586bf2-f3f9-41a3-8445-a9921a687ccf" alt="Cornstarch <3" width="55" height="49">
+
 **Features:**
 
 ![trimmedBall-ezgif com-optimize (2)](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/1ad6647b-351b-4651-84b6-8888cf2c6ae3)
