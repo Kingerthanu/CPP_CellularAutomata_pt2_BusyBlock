@@ -32,3 +32,6 @@ This Project Has Allowed Me To Get Very In Depth With What Really Makes These So
 ****Corrupt, but shows depth well:****
 
 ![boxed200-ezgif com-video-to-gif-converter (1)](https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/5d3f919f-d470-4259-873d-3bddac37be2a)
+
+
+<img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/838da4af-4131-48c8-82c2-7f6e9105c343" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/838da4af-4131-48c8-82c2-7f6e9105c343" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/838da4af-4131-48c8-82c2-7f6e9105c343" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_CellularAutomata_pt2_BusyBlock/assets/76754592/838da4af-4131-48c8-82c2-7f6e9105c343" alt="Cornstarch <3" width="55" height="49">
